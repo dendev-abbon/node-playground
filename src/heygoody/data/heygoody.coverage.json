@@ -1,0 +1,1295 @@
+[{
+  "_id": {
+    "$oid": "65d62f0c30f835d62c12bcd7"
+  },
+  "group_name": {
+    "th": "ความคุ้มครองชีวิต และค่ารักษาพยาบาล",
+    "en": "LIFE"
+  },
+  "coverages": [
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcb1"
+      },
+      "coverage_name": {
+        "th": "คุ้มครองชีวิต",
+        "en": "Life Coverage"
+      },
+      "coverage_description": {
+        "th": "รวมถึงการสูญเสียอวัยวะ สายตาหรือทุพพลภาพถาวรสิ้นเชิงเนื่องจากอุบัติเหตุ",
+        "en": "Pending"
+      },
+      "coverage_prefix": "LIF",
+      "coverage_code": "001",
+      "is_highlight": true,
+      "sequence": 1,
+      "updated_at": {
+        "$date": "2024-05-03T10:37:19.525Z"
+      },
+      "updated_by": "CMSHGU01"
+    },
+    {
+      "_id": {
+        "$oid": "66150c1e65e20703f25535d6"
+      },
+      "coverage_name": {
+        "th": "อายุ 6 เดือน - 14 ปี",
+        "en": "Age 6 months -14 years"
+      },
+      "coverage_description": {
+        "th": "รวมถึงการสูญเสียอวัยวะ สายตาหรือทุพพลภาพถาวรสิ้นเชิงเนื่องจากอุบัติเหตุ",
+        "en": "Pending"
+      },
+      "coverage_prefix": "LIF",
+      "coverage_code": "001G",
+      "is_highlight": false,
+      "sequence": 2,
+      "created_at": {
+        "$date": "2024-04-09T09:36:30.409Z"
+      },
+      "updated_at": {
+        "$date": "2024-04-18T09:35:16.804Z"
+      },
+      "created_by": "CMSHGU01",
+      "updated_by": "CMSHGU01"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcb2"
+      },
+      "coverage_name": {
+        "th": "อายุ 1-14 ปี",
+        "en": "Age 1-14 years"
+      },
+      "coverage_description": {
+        "th": "รวมถึงการสูญเสียอวัยวะ สายตาหรือทุพพลภาพถาวรสิ้นเชิงเนื่องจากอุบัติเหตุ",
+        "en": "Pending"
+      },
+      "coverage_prefix": "LIF",
+      "coverage_code": "001A",
+      "is_highlight": false,
+      "sequence": 3,
+      "updated_at": {
+        "$date": "2024-04-18T09:35:04.842Z"
+      },
+      "updated_by": "80008287"
+    },
+    {
+      "_id": {
+        "$oid": "66150c7565e20703f25535df"
+      },
+      "coverage_name": {
+        "th": "อายุ 15 - 70 ปี",
+        "en": "Age 15-70 years"
+      },
+      "coverage_description": {
+        "th": "รวมถึงการสูญเสียอวัยวะ สายตาหรือทุพพลภาพถาวรสิ้นเชิงเนื่องจากอุบัติเหตุ",
+        "en": "Pending"
+      },
+      "coverage_prefix": "LIF",
+      "coverage_code": "001H",
+      "is_highlight": false,
+      "sequence": 4,
+      "created_at": {
+        "$date": "2024-04-09T09:37:57.422Z"
+      },
+      "updated_at": {
+        "$date": "2024-04-18T09:34:51.937Z"
+      },
+      "created_by": "CMSHGU01",
+      "updated_by": "CMSHGU01"
+    },
+    {
+      "_id": {
+        "$oid": "65ea9b14c9c3935c4b625582"
+      },
+      "coverage_name": {
+        "th": "อายุ 76 - 80 ปี",
+        "en": "Age 76-80 years"
+      },
+      "coverage_description": {
+        "th": "รวมถึงการสูญเสียอวัยวะ สายตาหรือทุพพลภาพถาวรสิ้นเชิงเนื่องจากอุบัติเหตุ",
+        "en": "Pending"
+      },
+      "coverage_prefix": "LIF",
+      "coverage_code": "001D",
+      "is_highlight": false,
+      "sequence": 5,
+      "created_at": {
+        "$date": "2024-03-08T04:59:00.885Z"
+      },
+      "updated_at": {
+        "$date": "2024-04-18T09:34:34.502Z"
+      },
+      "created_by": "heygoody",
+      "updated_by": "CMSHGU01"
+    },
+    {
+      "_id": {
+        "$oid": "65ea9c84c9c3935c4b6255ac"
+      },
+      "coverage_name": {
+        "th": "อายุ  76 - 85 ปี",
+        "en": "Age 76-85 years"
+      },
+      "coverage_description": {
+        "th": "รวมถึงการสูญเสียอวัยวะ สายตาหรือทุพพลภาพถาวรสิ้นเชิงเนื่องจากอุบัติเหตุ",
+        "en": "Pending"
+      },
+      "coverage_prefix": "LIF",
+      "coverage_code": "001E",
+      "is_highlight": false,
+      "sequence": 6,
+      "created_at": {
+        "$date": "2024-03-08T05:05:08.983Z"
+      },
+      "updated_at": {
+        "$date": "2024-04-18T09:34:21.819Z"
+      },
+      "created_by": "heygoody",
+      "updated_by": "CMSHGU01"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcb5"
+      },
+      "coverage_name": {
+        "th": "ค่ารักษาพยาบาล",
+        "en": "Oversea Medical Charge"
+      },
+      "coverage_description": {
+        "th": "สำหรับการเจ็บป่วยที่เกิดขึ้นระหว่างเดินทางในต่างประเทศ",
+        "en": "Pending"
+      },
+      "coverage_prefix": "MED",
+      "coverage_code": "001",
+      "is_highlight": true,
+      "sequence": 7,
+      "updated_at": {
+        "$date": "2024-04-18T09:27:20.317Z"
+      },
+      "updated_by": "CMSHGU01"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcb3"
+      },
+      "coverage_name": {
+        "th": "อายุ 15-65 ปี",
+        "en": "Age 15-65 years"
+      },
+      "coverage_description": {
+        "th": "รวมถึงการสูญเสียอวัยวะ สายตาหรือทุพพลภาพถาวรสิ้นเชิงเนื่องจากอุบัติเหตุ",
+        "en": "Pending"
+      },
+      "coverage_prefix": "LIF",
+      "coverage_code": "001B",
+      "is_highlight": false,
+      "sequence": 8,
+      "updated_at": {
+        "$date": "2024-04-18T10:23:43.282Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcb4"
+      },
+      "coverage_name": {
+        "th": "อายุ 15 - 75 ปี",
+        "en": "Age 15-75 years"
+      },
+      "coverage_description": {
+        "th": "รวมถึงการสูญเสียอวัยวะ สายตาหรือทุพพลภาพถาวรสิ้นเชิงเนื่องจากอุบัติเหตุ",
+        "en": "Pending"
+      },
+      "coverage_prefix": "LIF",
+      "coverage_code": "001C",
+      "is_highlight": false,
+      "sequence": 9,
+      "updated_at": {
+        "$date": "2024-04-18T10:23:57.831Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65ea9fb3c9c3935c4b6255cc"
+      },
+      "coverage_name": {
+        "th": "อายุ  1 - 75 ปี",
+        "en": "Age 1-75 years"
+      },
+      "coverage_description": {
+        "th": "รวมถึงการสูญเสียอวัยวะ สายตาหรือทุพพลภาพถาวรสิ้นเชิงเนื่องจากอุบัติเหตุ",
+        "en": "Pending"
+      },
+      "coverage_prefix": "LIF",
+      "coverage_code": "001F",
+      "is_highlight": false,
+      "sequence": 10,
+      "created_at": {
+        "$date": "2024-03-08T05:18:43.387Z"
+      },
+      "updated_at": {
+        "$date": "2024-04-22T06:29:28.398Z"
+      },
+      "created_by": "heygoody",
+      "updated_by": "80008287"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcb6"
+      },
+      "coverage_name": {
+        "th": "อายุ 1-14 ปี",
+        "en": "Age 1-14 years"
+      },
+      "coverage_description": {
+        "th": "สำหรับการเจ็บป่วยที่เกิดขึ้นระหว่างเดินทางในต่างประเทศ",
+        "en": "Pending"
+      },
+      "coverage_prefix": "MED",
+      "coverage_code": "001A",
+      "is_highlight": false,
+      "sequence": 11,
+      "updated_at": {
+        "$date": "2024-04-18T09:33:56.251Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcb7"
+      },
+      "coverage_name": {
+        "th": "อายุ 15-65 ปี",
+        "en": "Age 15-65 years"
+      },
+      "coverage_description": {
+        "th": "สำหรับการเจ็บป่วยที่เกิดขึ้นระหว่างเดินทางในต่างประเทศ",
+        "en": "Pending"
+      },
+      "coverage_prefix": "MED",
+      "coverage_code": "001B",
+      "is_highlight": false,
+      "sequence": 12,
+      "updated_at": {
+        "$date": "2024-04-18T10:24:21.959Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcb8"
+      },
+      "coverage_name": {
+        "th": "อายุ 15 - 75 ปี",
+        "en": "Age 15-75 years"
+      },
+      "coverage_description": {
+        "th": "สำหรับการเจ็บป่วยที่เกิดขึ้นระหว่างเดินทางในต่างประเทศ",
+        "en": "Pending"
+      },
+      "coverage_prefix": "MED",
+      "coverage_code": "001C",
+      "is_highlight": false,
+      "sequence": 13,
+      "updated_at": {
+        "$date": "2024-04-18T10:24:32.607Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65eaa11bc9c3935c4b6255f1"
+      },
+      "coverage_name": {
+        "th": "อายุ 76 - 80 ปี",
+        "en": "Age 76-80 years"
+      },
+      "coverage_description": {
+        "th": "สำหรับการเจ็บป่วยที่เกิดขึ้นระหว่างเดินทางในต่างประเทศ",
+        "en": "Pending"
+      },
+      "coverage_prefix": "MED",
+      "coverage_code": "001D",
+      "is_highlight": false,
+      "sequence": 14,
+      "created_at": {
+        "$date": "2024-03-08T05:24:43.275Z"
+      },
+      "updated_at": {
+        "$date": "2024-04-18T09:33:29.287Z"
+      },
+      "created_by": "heygoody",
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65eaac393ae704c706fe25c5"
+      },
+      "coverage_name": {
+        "th": "อายุ 76 - 85 ปี",
+        "en": "Age 76-85 years"
+      },
+      "coverage_description": {
+        "th": "สำหรับการเจ็บป่วยที่เกิดขึ้นระหว่างเดินทางในต่างประเทศ",
+        "en": "Pending"
+      },
+      "coverage_prefix": "MED",
+      "coverage_code": "001E",
+      "is_highlight": false,
+      "sequence": 15,
+      "created_at": {
+        "$date": "2024-03-08T06:12:09.259Z"
+      },
+      "updated_at": {
+        "$date": "2024-04-18T09:33:16.993Z"
+      },
+      "created_by": "heygoody",
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65eaac9dd6e52e69df663987"
+      },
+      "coverage_name": {
+        "th": "อายุ  1 - 75 ปี",
+        "en": "Age 1-75 years"
+      },
+      "coverage_description": {
+        "th": "สำหรับการเจ็บป่วยที่เกิดขึ้นระหว่างเดินทางในต่างประเทศ",
+        "en": "Pending"
+      },
+      "coverage_prefix": "MED",
+      "coverage_code": "001F",
+      "is_highlight": false,
+      "sequence": 16,
+      "created_at": {
+        "$date": "2024-03-08T06:13:49.222Z"
+      },
+      "updated_at": {
+        "$date": "2024-04-18T10:24:51.195Z"
+      },
+      "created_by": "heygoody",
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "66151fe3990fa74e43c1fbea"
+      },
+      "coverage_name": {
+        "th": "อายุ 6 เดือน - 14 ปี",
+        "en": "Age 6 months -14 years"
+      },
+      "coverage_description": {
+        "th": "สำหรับการเจ็บป่วยที่เกิดขึ้นระหว่างเดินทางในต่างประเทศ",
+        "en": "Pending"
+      },
+      "coverage_prefix": "MED",
+      "coverage_code": "001G",
+      "is_highlight": false,
+      "sequence": 17,
+      "created_at": {
+        "$date": "2024-04-09T11:00:51.919Z"
+      },
+      "updated_at": {
+        "$date": "2024-04-18T09:34:05.981Z"
+      },
+      "created_by": "CMSHGU01",
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "6615202a990fa74e43c1fbef"
+      },
+      "coverage_name": {
+        "th": "อายุ 15 - 70 ปี",
+        "en": "Age 15-70 years"
+      },
+      "coverage_description": {
+        "th": "สำหรับการเจ็บป่วยที่เกิดขึ้นระหว่างเดินทางในต่างประเทศ",
+        "en": "Pending"
+      },
+      "coverage_prefix": "MED",
+      "coverage_code": "001H",
+      "is_highlight": false,
+      "sequence": 18,
+      "created_at": {
+        "$date": "2024-04-09T11:02:02.122Z"
+      },
+      "updated_at": {
+        "$date": "2024-04-18T09:33:41.180Z"
+      },
+      "created_by": "CMSHGU01",
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcb9"
+      },
+      "coverage_name": {
+        "th": "ค่ารักษาพยาบาลต่อเนื่องในไทย",
+        "en": "Follow Up Medical"
+      },
+      "coverage_description": {
+        "th": "สำหรับการเจ็บป่วยที่เกิดขึ้นในต่างประเทศ และต้องทำการรักษาต่อเนื่องเมื่อกลับถึงไทย",
+        "en": "Pending"
+      },
+      "coverage_prefix": "MED",
+      "coverage_code": "002",
+      "is_highlight": false,
+      "sequence": 19,
+      "updated_at": {
+        "$date": "2024-04-18T09:33:00.977Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcba"
+      },
+      "coverage_name": {
+        "th": "อายุ 1-14 ปี",
+        "en": "Age 1-14 years"
+      },
+      "coverage_description": {
+        "th": "สำหรับการเจ็บป่วยที่เกิดขึ้นในต่างประเทศ และต้องทำการรักษาต่อเนื่องเมื่อกลับถึงไทย",
+        "en": "Pending"
+      },
+      "coverage_prefix": "MED",
+      "coverage_code": "002A",
+      "is_highlight": false,
+      "sequence": 20,
+      "updated_at": {
+        "$date": "2024-04-18T09:36:05.564Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcbb"
+      },
+      "coverage_name": {
+        "th": "อายุ 15-65 ปี",
+        "en": "Age 15-65 years"
+      },
+      "coverage_description": {
+        "th": "สำหรับการเจ็บป่วยที่เกิดขึ้นในต่างประเทศ และต้องทำการรักษาต่อเนื่องเมื่อกลับถึงไทย",
+        "en": "Pending"
+      },
+      "coverage_prefix": "MED",
+      "coverage_code": "002B",
+      "is_highlight": false,
+      "sequence": 21,
+      "updated_at": {
+        "$date": "2024-04-18T10:25:17.747Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65eaad1cd6e52e69df663994"
+      },
+      "coverage_name": {
+        "th": "อายุ 15 - 75 ปี",
+        "en": "Age 15-75 years"
+      },
+      "coverage_description": {
+        "th": "สำหรับการเจ็บป่วยที่เกิดขึ้นในต่างประเทศ และต้องทำการรักษาต่อเนื่องเมื่อกลับถึงไทย",
+        "en": "Pending"
+      },
+      "coverage_prefix": "MED",
+      "coverage_code": "002C",
+      "is_highlight": false,
+      "sequence": 22,
+      "created_at": {
+        "$date": "2024-03-08T06:15:56.332Z"
+      },
+      "updated_at": {
+        "$date": "2024-04-18T10:25:31.155Z"
+      },
+      "created_by": "heygoody",
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65eaad8cd6e52e69df6639a1"
+      },
+      "coverage_name": {
+        "th": "อายุ 76 - 80 ปี",
+        "en": "Age 76-85 years"
+      },
+      "coverage_description": {
+        "th": "สำหรับการเจ็บป่วยที่เกิดขึ้นในต่างประเทศ และต้องทำการรักษาต่อเนื่องเมื่อกลับถึงไทย",
+        "en": "Pending"
+      },
+      "coverage_prefix": "MED",
+      "coverage_code": "002D",
+      "is_highlight": false,
+      "sequence": 23,
+      "created_at": {
+        "$date": "2024-03-08T06:17:48.264Z"
+      },
+      "updated_at": {
+        "$date": "2024-04-18T09:49:05.852Z"
+      },
+      "created_by": "heygoody",
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65eaade1d6e52e69df6639aa"
+      },
+      "coverage_name": {
+        "th": "อายุ  76 - 85 ปี",
+        "en": "Age 76-85 years"
+      },
+      "coverage_description": {
+        "th": "สำหรับการเจ็บป่วยที่เกิดขึ้นในต่างประเทศ และต้องทำการรักษาต่อเนื่องเมื่อกลับถึงไทย",
+        "en": "Pending"
+      },
+      "coverage_prefix": "MED",
+      "coverage_code": "002E",
+      "is_highlight": false,
+      "sequence": 24,
+      "created_at": {
+        "$date": "2024-03-08T06:19:13.295Z"
+      },
+      "updated_at": {
+        "$date": "2024-04-23T02:03:59.161Z"
+      },
+      "created_by": "heygoody",
+      "updated_by": "80008938"
+    },
+    {
+      "_id": {
+        "$oid": "65eaae4dd6e52e69df6639bc"
+      },
+      "coverage_name": {
+        "th": "อายุ  1 - 75 ปี",
+        "en": "Age 1-75 years"
+      },
+      "coverage_description": {
+        "th": "สำหรับการเจ็บป่วยที่เกิดขึ้นในต่างประเทศ และต้องทำการรักษาต่อเนื่องเมื่อกลับถึงไทย",
+        "en": "Pending"
+      },
+      "coverage_prefix": "MED",
+      "coverage_code": "002F",
+      "is_highlight": false,
+      "sequence": 25,
+      "created_at": {
+        "$date": "2024-03-08T06:21:01.257Z"
+      },
+      "updated_at": {
+        "$date": "2024-04-18T10:25:42.897Z"
+      },
+      "created_by": "heygoody",
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65eabe6b9ab7189fe67d3f44"
+      },
+      "coverage_name": {
+        "th": "อายุ 1 - 85 ปี",
+        "en": "Age 1-85 years"
+      },
+      "coverage_description": {
+        "th": "สำหรับการเจ็บป่วยที่เกิดขึ้นในต่างประเทศ และต้องทำการรักษาต่อเนื่องเมื่อกลับถึงไทย",
+        "en": "Pending"
+      },
+      "coverage_prefix": "MED",
+      "coverage_code": "002G",
+      "is_highlight": false,
+      "sequence": 26,
+      "created_at": {
+        "$date": "2024-03-08T07:29:47.902Z"
+      },
+      "updated_at": {
+        "$date": "2024-04-18T10:25:50.315Z"
+      },
+      "created_by": "heygoody",
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "661520d7990fa74e43c1fbfe"
+      },
+      "coverage_name": {
+        "th": "อายุ 6 เดือน - 14 ปี",
+        "en": "Age 6 months -14 years"
+      },
+      "coverage_description": {
+        "th": "สำหรับการเจ็บป่วยที่เกิดขึ้นในต่างประเทศ และต้องทำการรักษาต่อเนื่องเมื่อกลับถึงไทย",
+        "en": "Pending"
+      },
+      "coverage_prefix": "MED",
+      "coverage_code": "002H",
+      "is_highlight": false,
+      "sequence": 27,
+      "created_at": {
+        "$date": "2024-04-09T11:04:55.174Z"
+      },
+      "updated_at": {
+        "$date": "2024-04-18T09:35:52.298Z"
+      },
+      "created_by": "CMSHGU01",
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "6615238357b442ec7ce6c700"
+      },
+      "coverage_name": {
+        "th": "อายุ 15 - 70 ปี",
+        "en": "Age 15-70 years"
+      },
+      "coverage_description": {
+        "th": "สำหรับการเจ็บป่วยที่เกิดขึ้นในต่างประเทศ และต้องทำการรักษาต่อเนื่องเมื่อกลับถึงไทย",
+        "en": "Pending"
+      },
+      "coverage_prefix": "MED",
+      "coverage_code": "002I",
+      "is_highlight": false,
+      "sequence": 28,
+      "created_at": {
+        "$date": "2024-04-09T11:16:19.738Z"
+      },
+      "updated_at": {
+        "$date": "2024-04-18T09:36:21.508Z"
+      },
+      "created_by": "CMSHGU01",
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65eac0dfca853795d436e54a"
+      },
+      "coverage_name": {
+        "th": "การเคลื่อนย้ายฉุกเฉิน",
+        "en": "Evacuate & Repatriate"
+      },
+      "coverage_description": {
+        "th": "เคลื่อนย้ายเพื่อรับการรักษาฉุกเฉิน หรือกลับประเทศไทย กรณีที่ผู้เอาประกันภัยไม่สามารถเดินทางไปรับการรักษาเองได้",
+        "en": "Pending"
+      },
+      "coverage_prefix": "MED",
+      "coverage_code": "003",
+      "is_highlight": true,
+      "sequence": 29,
+      "created_at": {
+        "$date": "2024-03-08T07:40:15.733Z"
+      },
+      "updated_at": {
+        "$date": "2024-04-18T10:03:57.058Z"
+      },
+      "created_by": "heygoody",
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcbc"
+      },
+      "coverage_name": {
+        "th": "ค่าเดินทางกรณีผู้ป่วยนอก",
+        "en": "OPD Travelling Fees"
+      },
+      "coverage_description": {
+        "th": "ชดเชยค่าเดินทางไปรักษา และถือเป็นส่วนหนึ่งของวงเงินค่ารักษาพยาบาล",
+        "en": "Pending"
+      },
+      "coverage_prefix": "EXP",
+      "coverage_code": "001",
+      "is_highlight": false,
+      "sequence": 30,
+      "updated_at": {
+        "$date": "2024-04-18T09:51:02.858Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcbd"
+      },
+      "coverage_name": {
+        "th": "ชดเชยรายวันกรณีผู้ป่วยใน",
+        "en": "IPD Income Benefit"
+      },
+      "coverage_description": {
+        "th": "ชดเชยเมื่อเข้ารับการรักษาเป็นผู้ป่วยในต่างประเทศ",
+        "en": "Pending"
+      },
+      "coverage_prefix": "HIB",
+      "coverage_code": "001",
+      "is_highlight": false,
+      "sequence": 31,
+      "updated_at": {
+        "$date": "2024-04-18T09:53:29.723Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcbf"
+      },
+      "coverage_name": {
+        "th": "ส่งศพหรืออัฐิกลับประเทศไทย",
+        "en": "Repatriation of Mortal"
+      },
+      "coverage_description": {
+        "th": "ค่าใช้จ่ายในการส่งศพหรืออัฐิของผู้เอาประกันภัยกลับประเทศไทย",
+        "en": "Pending"
+      },
+      "coverage_prefix": "EXP",
+      "coverage_code": "005",
+      "is_highlight": false,
+      "sequence": 32,
+      "updated_at": {
+        "$date": "2024-04-18T10:05:37.089Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcc0"
+      },
+      "coverage_name": {
+        "th": "ส่งผู้เยาว์กลับประเทศไทย",
+        "en": "Return of Children"
+      },
+      "coverage_description": {
+        "th": "ค่าใช้จ่ายในการส่งบุตรของผู้เอาประกันภัยกลับประเทศไทย ขณะผู้เอาประกันกำลังรักษาตัวเป็นผู้ป่วยใน ในต่างประเทศ",
+        "en": "Pending"
+      },
+      "coverage_prefix": "EXP",
+      "coverage_code": "006",
+      "is_highlight": false,
+      "sequence": 33,
+      "updated_at": {
+        "$date": "2024-04-18T10:06:54.795Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcc1"
+      },
+      "coverage_name": {
+        "th": "ค่าเดินทางไปเยี่ยมผู้เอาประกัน",
+        "en": "Compassionate Visit"
+      },
+      "coverage_description": {
+        "th": "ค่าใช้จ่ายสำหรับญาติเพื่อเดินทางไปเยี่ยมผู้เอาประกันภัย",
+        "en": "Pending"
+      },
+      "coverage_prefix": "EXP",
+      "coverage_code": "003",
+      "is_highlight": false,
+      "sequence": 34,
+      "updated_at": {
+        "$date": "2024-04-18T10:07:11.415Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcc2"
+      },
+      "coverage_name": {
+        "th": "ค่าเดินทางเพื่อจัดการพิธีศพ",
+        "en": "Travel to Funeral"
+      },
+      "coverage_description": {
+        "th": "ค่าใช้จ่ายสำหรับเดินทางไปจัดการพิธีศพ กรณีผู้เอาประกันเสียชีวิตจากการบาดเจ็บ หรือเจ็บป่วยระหว่างการเดินทาง",
+        "en": "Pending"
+      },
+      "coverage_prefix": "EXP",
+      "coverage_code": "004",
+      "is_highlight": false,
+      "sequence": 35,
+      "updated_at": {
+        "$date": "2024-04-18T10:13:09.143Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcc3"
+      },
+      "coverage_name": {
+        "th": "ความรับผิดต่อบุคคลภายนอก",
+        "en": "Third Party Liability"
+      },
+      "coverage_description": {
+        "th": "คุ้มครองความรับผิดตามกฎหมายไม่ว่าจะเป็น ชีวิต การบาดเจ็บ และทรัพย์สินเสียหายของบุคคลภายนอก ที่มีเหตุเกิดจากอุบัติเหตุของผู้เอาประกันภัย",
+        "en": "Pending"
+      },
+      "coverage_prefix": "LIB",
+      "coverage_code": "001",
+      "is_highlight": false,
+      "sequence": 36,
+      "updated_at": {
+        "$date": "2024-04-18T10:13:44.702Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcc4"
+      },
+      "coverage_name": {
+        "th": "ความเสียหายส่วนแรกสำหรับรถเช่า",
+        "en": "Rental Car Excess"
+      },
+      "coverage_description": {
+        "th": "ความเสียหายจากภัยที่ได้รับความคุ้มครองตามกรมธรรม์ประกันภัยรถยนต์",
+        "en": "Pending"
+      },
+      "coverage_prefix": "LIB",
+      "coverage_code": "002",
+      "is_highlight": false,
+      "sequence": 37,
+      "updated_at": {
+        "$date": "2024-04-18T10:15:09.030Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65ef093401e482bedf1c59a1"
+      },
+      "coverage_name": {
+        "th": "ค่าโทรศัพท์กรณีฉุกเฉิน",
+        "en": "Emergency Phone Charge"
+      },
+      "coverage_description": {
+        "th": "ค่าใช้จ่ายในการโทรหาผู้ให้บริการช่วยเหลือฉุกเฉินในไทย",
+        "en": "Pending"
+      },
+      "coverage_prefix": "EXP",
+      "coverage_code": "002",
+      "is_highlight": false,
+      "sequence": 38,
+      "created_at": {
+        "$date": "2024-03-11T13:37:56.543Z"
+      },
+      "updated_at": {
+        "$date": "2024-04-18T10:22:57.681Z"
+      },
+      "created_by": "heygoody-api[DEV]",
+      "updated_by": "80007357"
+    }
+  ],
+  "created_by": "heygoody",
+  "updated_by": "CMSHGU01",
+  "created_at": {
+    "$date": "2024-02-21T17:12:44.743Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-21T10:21:09.159Z"
+  },
+  "sequence": 2
+},
+{
+  "_id": {
+    "$oid": "65d62f0c30f835d62c12bcd8"
+  },
+  "group_name": {
+    "th": "ความคุ้มครองเที่ยวบิน",
+    "en": "FLIGHT"
+  },
+  "coverages": [
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcc6"
+      },
+      "coverage_name": {
+        "th": "การล่าช้าของเที่ยวบิน",
+        "en": "Flight Delay"
+      },
+      "coverage_description": {
+        "th": "เงินชดเชยการล่าช้าของเที่ยวบิน",
+        "en": "Pending"
+      },
+      "coverage_prefix": "FLI",
+      "coverage_code": "001",
+      "is_highlight": true,
+      "sequence": 1,
+      "updated_at": {
+        "$date": "2024-04-18T10:28:45.158Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcc7"
+      },
+      "coverage_name": {
+        "th": "การพลาดการต่อเที่ยวบิน",
+        "en": "Missed  Transit Flight"
+      },
+      "coverage_description": {
+        "th": "เงินชดเชยการล่าช้าของเที่ยวบินแรก ที่ทำให้พลาดเที่ยวบินต่อ",
+        "en": "Pending"
+      },
+      "coverage_prefix": "FLI",
+      "coverage_code": "002",
+      "is_highlight": false,
+      "sequence": 2,
+      "updated_at": {
+        "$date": "2024-04-18T10:28:57.433Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcc8"
+      },
+      "coverage_name": {
+        "th": "การยกเลิกหรือเลื่อนการเดินทาง",
+        "en": "Trip Cancellation"
+      },
+      "coverage_description": {
+        "th": "ชดเชยค่าใช้จ่ายในการเดินทางที่เกิดขึ้นแล้ว เมื่อต้องยกเลิกทริปก่อนเดินทาง จากสาเหตุตามกำหนด",
+        "en": "Pending"
+      },
+      "coverage_prefix": "EXP",
+      "coverage_code": "007",
+      "is_highlight": true,
+      "sequence": 3,
+      "updated_at": {
+        "$date": "2024-04-18T10:29:15.416Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcc9"
+      },
+      "coverage_name": {
+        "th": "การลดจำนวนวันเดินทาง",
+        "en": "Trip Curtailment"
+      },
+      "coverage_description": {
+        "th": "ชดเชยค่าใช้จ่ายในการเดินทางที่เกิดขึ้นแล้ว เมื่อต้องลดจำนวนวันเดินทาง จากสาเหตุตามกำหนด",
+        "en": "Pending"
+      },
+      "coverage_prefix": "EXP",
+      "coverage_code": "008",
+      "is_highlight": false,
+      "sequence": 4,
+      "updated_at": {
+        "$date": "2024-04-24T03:42:48.272Z"
+      },
+      "updated_by": "80008287"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcca"
+      },
+      "coverage_name": {
+        "th": "การจี้เครื่องบิน",
+        "en": "Hijacking"
+      },
+      "coverage_description": {
+        "th": "เงินชดเชยเมื่อเกิดการจี้เครื่องบิน",
+        "en": "Pending"
+      },
+      "coverage_prefix": "FLI",
+      "coverage_code": "003",
+      "is_highlight": false,
+      "sequence": 5,
+      "updated_at": {
+        "$date": "2024-04-18T10:30:18.154Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bccb"
+      },
+      "coverage_name": {
+        "th": "ขยายระยะเวลาคุ้มครองอัตโนมัติ",
+        "en": "Coverage Extension"
+      },
+      "coverage_description": {
+        "th": "ขยายระยะเวลาคุ้มครองเพิ่มอัตโนมัติ หากเกิดเหตุสุดวิสัยที่ทำให้ไม่สามารถกลับไทยได้",
+        "en": "Pending"
+      },
+      "coverage_prefix": "EPA",
+      "coverage_code": "001",
+      "is_highlight": false,
+      "sequence": 6,
+      "updated_at": {
+        "$date": "2024-04-18T10:30:53.852Z"
+      },
+      "updated_by": "80007357"
+    }
+  ],
+  "created_by": "heygoody",
+  "updated_by": "heygoody",
+  "created_at": {
+    "$date": "2024-02-21T17:12:44.743Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-14T03:01:26.417Z"
+  },
+  "sequence": 3
+},
+{
+  "_id": {
+    "$oid": "65d62f0c30f835d62c12bcd9"
+  },
+  "group_name": {
+    "th": "ความคุ้มครองกระเป๋าเดินทาง และทรัพย์สินส่วนตัว",
+    "en": "PROPERTY"
+  },
+  "coverages": [
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bccc"
+      },
+      "coverage_name": {
+        "th": "การล่าช้าของกระเป๋าเดินทาง",
+        "en": "Baggage delay"
+      },
+      "coverage_description": {
+        "th": "ชดเชยเมื่อกระเป๋าเดินทางล่าช้าจากเหตุความผิดพลาดของผู้ขนส่ง",
+        "en": "Pending"
+      },
+      "coverage_prefix": "PPT",
+      "coverage_code": "001",
+      "is_highlight": false,
+      "sequence": 1,
+      "updated_at": {
+        "$date": "2024-04-18T10:31:40.085Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bccd"
+      },
+      "coverage_name": {
+        "th": "กระเป๋า สัมภาระ เสียหาย สูญหาย",
+        "en": "Baggage Loss/Damage"
+      },
+      "coverage_description": {
+        "th": "ชดเชยเมื่อกระเป๋าเดินทางสูญเสีย เสียหาย จากเหตุความผิดพลาดของผู้ขนส่ง หรือการขนย้ายของพนักงานโรงแรม หรือเกิดจากการลักทรัพย์ที่มีรอยงัดแงะ การถูกชิงทรัพย์ ปล้นทรัพย์",
+        "en": "Pending"
+      },
+      "coverage_prefix": "PPT",
+      "coverage_code": "002",
+      "is_highlight": false,
+      "sequence": 2,
+      "updated_at": {
+        "$date": "2024-04-18T10:33:23.379Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcce"
+      },
+      "coverage_name": {
+        "th": "เอกสารเดินทาง เสียหาย สูญหาย",
+        "en": "Passport Loss/Damage"
+      },
+      "coverage_description": {
+        "th": "ชดเชยค่าใช้จ่ายในการทำเอกสารใหม่ จากการลักทรัพย์ที่มีรอยงัดแงะ การถูกชิงทรัพย์ ปล้นทรัพย์ รวมไปถึงค่าเดินทางและค่าที่พักเพิ่มเติม ในกรณีที่ต้องเลื่อนวันเดืนทางกลับ",
+        "en": "Pending"
+      },
+      "coverage_prefix": "PPT",
+      "coverage_code": "003",
+      "is_highlight": false,
+      "sequence": 3,
+      "updated_at": {
+        "$date": "2024-04-18T10:33:13.960Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bccf"
+      },
+      "coverage_name": {
+        "th": "เงินสดสูญหาย",
+        "en": "Loss of Personal Cash"
+      },
+      "coverage_description": {
+        "th": "ชดเชยเมื่อเงินสดและเช็คเดินทาง สูญเสีย เสียหาย จากการลักทรัพย์ที่มีรอยงัดแงะ การถูกชิงทรัพย์ ปล้นทรัพย์",
+        "en": "Pending"
+      },
+      "coverage_prefix": "PPT",
+      "coverage_code": "004",
+      "is_highlight": false,
+      "sequence": 4,
+      "updated_at": {
+        "$date": "2024-04-18T10:34:36.314Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcd0"
+      },
+      "coverage_name": {
+        "th": "โน้ตบุ๊ค เสียหาย สูญหาย",
+        "en": "Notebook Loss/Damage"
+      },
+      "coverage_description": {
+        "th": "ชดเชยเมื่อคอมพิวเตอร์โน้ตบุ๊ค สูญเสีย เสียหาย จากความผิดพลาดของบริษัทผู้ขนส่งหรือพนักงานโรงแรม การลักทรัพย์ที่มีรอยงัดแงะ การชิงทรัพย์ การปล้นทรัพย์",
+        "en": "Pending"
+      },
+      "coverage_prefix": "PPT",
+      "coverage_code": "005",
+      "is_highlight": false,
+      "sequence": 5,
+      "updated_at": {
+        "$date": "2024-04-18T10:35:00.795Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "6614beda685a1ef10ed0ce87"
+      },
+      "coverage_name": {
+        "th": "คุ้มครองทรัพย์สินภายในบ้านที่ไทย",
+        "en": "Homeaway Protection"
+      },
+      "coverage_description": {
+        "th": "คุ้มครองทรัพย์สินภายในบ้านที่ไทยจากภัยธรรมชาติ และการลักทรัพย์ ขณะท่องเที่ยวต่างประเทศ",
+        "en": "Pending"
+      },
+      "coverage_prefix": "PPT",
+      "coverage_code": "010",
+      "is_highlight": false,
+      "sequence": 6,
+      "created_at": {
+        "$date": "2024-04-09T04:06:50.142Z"
+      },
+      "updated_at": {
+        "$date": "2024-04-18T10:36:38.165Z"
+      },
+      "created_by": "CMSHGU01",
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65d811f72ca3375bdb87bc8f"
+      },
+      "coverage_name": {
+        "th": "ความคุ้มครองบัตรเครดิต",
+        "en": "Credit Card Indemnity"
+      },
+      "coverage_description": {
+        "th": "ชดเชยความสูญเสียหรือความเสียหายของวงเงินบัตรเครดิตจากการโจรกรรม และ/หรือ การโจรกรรมทางอินเทอร์เน็ต",
+        "en": "Pending"
+      },
+      "coverage_prefix": "LIB",
+      "coverage_code": "003",
+      "is_highlight": false,
+      "sequence": 7,
+      "updated_at": {
+        "$date": "2024-04-18T10:37:15.489Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcd1"
+      },
+      "coverage_name": {
+        "th": "คุ้มครองทรัพย์สินภายในรถเช่า",
+        "en": "Property in Rental Car"
+      },
+      "coverage_description": {
+        "th": "ชดเชยความสูญเสียของทรัพย์สินส่วนบุคคลที่อยู่ภายในรถยนต์ให้เช่า ที่เกิดจากการโจรกรรม",
+        "en": "Pending"
+      },
+      "coverage_prefix": "PPT",
+      "coverage_code": "008",
+      "is_highlight": false,
+      "sequence": 8,
+      "updated_at": {
+        "$date": "2024-04-19T04:34:29.806Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcd2"
+      },
+      "coverage_name": {
+        "th": "คุ้มครองอุปกรณ์กีฬา เครื่องดนตรี",
+        "en": "Sport&Music Equipment"
+      },
+      "coverage_description": {
+        "th": "ชดเชยความสูญเสียหรือความเสียหายของอุปกรณ์กีฬาและ/ หรือเครื่องดนตรี",
+        "en": "Pending"
+      },
+      "coverage_prefix": "PPT",
+      "coverage_code": "009",
+      "is_highlight": false,
+      "sequence": 9,
+      "updated_at": {
+        "$date": "2024-04-19T04:34:06.325Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcd4"
+      },
+      "coverage_name": {
+        "th": "อุปกรณ์กอล์ฟเสียหาย",
+        "en": "Golf Equipment"
+      },
+      "coverage_description": {
+        "th": "ชดเชยเมื่ออุปกรณ์กอล์ฟสูญเสีย เสียหาย จากเหตุความผิดพลาดของผู้ขนส่ง หรือการขนย้ายของพนักงานโรงแรม หรือเกิดจากการลักทรัพย์ที่มีรอยงัดแงะ การถูกชิงทรัพย์ ปล้นทรัพย์",
+        "en": "Pending"
+      },
+      "coverage_prefix": "PPT",
+      "coverage_code": "006",
+      "is_highlight": false,
+      "sequence": 10,
+      "updated_at": {
+        "$date": "2024-04-18T10:41:14.938Z"
+      },
+      "updated_by": "80007357"
+    },
+    {
+      "_id": {
+        "$oid": "65d62f0c30f835d62c12bcd5"
+      },
+      "coverage_name": {
+        "th": "รางวัลพิเศษ โฮล-อิน-วัน",
+        "en": "Hole-in-One Benefit"
+      },
+      "coverage_description": {
+        "th": "เงินรางวัลเมื่อผู้เอาประกันภัย ทำโฮล-อิน-วัน ในการแข่งขันอย่างเป็นทางการที่จัดขึ้นในสนามกอล์ฟมาตรฐาน 18 หลุม",
+        "en": "Pending"
+      },
+      "coverage_prefix": "PPT",
+      "coverage_code": "007",
+      "is_highlight": false,
+      "sequence": 11,
+      "updated_at": {
+        "$date": "2024-04-23T02:04:47.426Z"
+      },
+      "updated_by": "CMSHGU01"
+    }
+  ],
+  "created_by": "heygoody",
+  "updated_by": "heygoody",
+  "created_at": {
+    "$date": "2024-02-21T17:12:44.743Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-14T02:59:56.013Z"
+  },
+  "sequence": 4
+}]

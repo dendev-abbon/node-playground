@@ -1,0 +1,58 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Transaction Performance Comparison</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <canvas id="performanceChart" width="400" height="200"></canvas>
+    <script>
+        const sizes = [100,500,1000,5000,10000,25000,50000,100000];
+        const timesData1 = [0.25433299999997416,1.5795829999999569,3.6668750000000045,63.08866599999999,43.302167000000054,94.03745900000001,216.13574999999992,524.4525840000001];
+        const timesData2 = [0.15858400000001893,0.2853339999999207,0.16633300000000872,0.7530830000000606,0.9932500000001028,1.2177090000000135,2.01108400000021,15.638916999999992];
+
+        const ctx = document.getElementById('performanceChart').getContext('2d');
+        const performanceChart = new Chart(ctx, {
+          type: 'line',
+          data: {
+            labels: sizes,
+            datasets: [
+              {
+                label: 'data1 (map with find)',
+                data: timesData1,
+                borderColor: 'rgba(255, 99, 132, 1)',
+                borderWidth: 1,
+                fill: false,
+              },
+              {
+                label: 'data2 (pre-map users)',
+                data: timesData2,
+                borderColor: 'rgba(54, 162, 235, 1)',
+                borderWidth: 1,
+                fill: false,
+              },
+            ],
+          },
+          options: {
+            scales: {
+              x: {
+                title: {
+                  display: true,
+                  text: 'Size of Input Data',
+                },
+              },
+              y: {
+                title: {
+                  display: true,
+                  text: 'Execution Time (ms)',
+                },
+              },
+            },
+          },
+        });
+    </script>
+</body>
+</html>

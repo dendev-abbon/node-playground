@@ -1,0 +1,66 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Performance Comparison</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <canvas id="performanceChart" width="400" height="200"></canvas>
+    <script>
+        const sizes = [10,20,30,40,50,60,77];
+        const timespureFilter = [15.319958000000042,34.79695800000002,46.284042,63.0625,75.69958299999996,88.734958,104.0339590000001];
+        const timesfilterReduceSource = [20.99695900000006,25.176124999999956,40.75120800000002,46.125,46.00395800000001,46.697415999999976,47.05575000000022];
+        const timesmapGrouping = [3.7341670000000704,2.9215000000000373,2.8135839999999916,2.730833000000075,2.6710840000000644,2.8774170000001504,2.837833000000046];
+
+        const ctx = document.getElementById('performanceChart').getContext('2d');
+        const performanceChart = new Chart(ctx, {
+          type: 'line',
+          data: {
+            labels: sizes,
+            datasets: [
+              {
+                label: 'Pure Filter',
+                data: timespureFilter,
+                borderColor: 'rgba(255, 99, 132, 1)',
+                borderWidth: 1,
+                fill: false,
+              },
+              {
+                label: 'Filter Reduce Source',
+                data: timesfilterReduceSource,
+                borderColor: 'rgba(54, 162, 235, 1)',
+                borderWidth: 1,
+                fill: false,
+              },
+              {
+                label: 'Map Grouping',
+                data: timesmapGrouping,
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 1,
+                fill: false,
+              },
+            ],
+          },
+          options: {
+            scales: {
+              x: {
+                title: {
+                  display: true,
+                  text: 'Size of Input Data',
+                },
+              },
+              y: {
+                title: {
+                  display: true,
+                  text: 'Execution Time (ms)',
+                },
+              },
+            },
+          },
+        });
+    </script>
+</body>
+</html>

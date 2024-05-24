@@ -1,0 +1,154 @@
+[
+  {
+    "_id": {
+      "$oid": "6618f75c680246ce6ad8c776"
+    },
+    "insurer": {
+      "$oid": "6601af46869ebc1aff6a5a00"
+    },
+    "product_type": {
+      "$oid": "6581964580aaa0d278519b27"
+    },
+    "plan_code": "PL5",
+    "plan_insurer_code": "T002AA01",
+    "plan_master_id": {
+      "$oid": "661563752f810551a7e3afef"
+    },
+    "plan_name": {
+      "th": "ทราเวล อีซี่ พลัส",
+      "en": "Travel Easy Plus"
+    },
+    "plan_description": {
+      "th": "",
+      "en": ""
+    },
+    "channels": [
+      {
+        "$oid": "65ae882bb2db908bce629bdb"
+      }
+    ],
+    "status": "unpublished",
+    "created_by": "CMSHGU01",
+    "updated_by": "80008287",
+    "created_at": {
+      "$date": "2024-04-12T08:57:00.443Z"
+    },
+    "updated_at": {
+      "$date": "2024-04-22T10:44:25.721Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "661f910a793d0282f7e1d8e2"
+    },
+    "insurer": {
+      "$oid": "6601ae8407a776996c623984"
+    },
+    "product_type": {
+      "$oid": "6581964580aaa0d278519b27"
+    },
+    "plan_code": "PL3",
+    "plan_insurer_code": "TAIDSTD1",
+    "plan_master_id": {
+      "$oid": "660d929c2f810551a7da2214"
+    },
+    "plan_name": {
+      "th": "ทราเวล จอย",
+      "en": "Travel Joy"
+    },
+    "plan_description": {
+      "th": "Sompo ใช้ plan code เดียวกัน ระหว่าง Asia และ WW จึงไม่ต้องสร้าง package แยกระหว่าง Asia และ WW",
+      "en": ""
+    },
+    "channels": [
+      {
+        "$oid": "65ae882bb2db908bce629bdb"
+      }
+    ],
+    "status": "published",
+    "created_by": "CMSHGU01",
+    "updated_by": "CF304589",
+    "created_at": {
+      "$date": "2024-04-17T09:06:18.564Z"
+    },
+    "updated_at": {
+      "$date": "2024-05-12T08:33:20.056Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "661f94b40f0841272f707987"
+    },
+    "insurer": {
+      "$oid": "6601b10d869ebc1aff6a5a05"
+    },
+    "product_type": {
+      "$oid": "6581964580aaa0d278519b27"
+    },
+    "plan_code": "PL4",
+    "plan_insurer_code": "ITAI01YD01",
+    "plan_master_id": {
+      "$oid": "660d929e2f810551a7da2619"
+    },
+    "plan_name": {
+      "th": "ไอ อินชัวร์",
+      "en": "i-Insure"
+    },
+    "plan_description": {
+      "th": "",
+      "en": ""
+    },
+    "channels": [
+      {
+        "$oid": "65ae882bb2db908bce629bdb"
+      }
+    ],
+    "status": "published",
+    "created_by": "CMSHGU01",
+    "updated_by": "CMSHGU01",
+    "created_at": {
+      "$date": "2024-04-17T09:21:56.292Z"
+    },
+    "updated_at": {
+      "$date": "2024-05-16T09:40:07.994Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "661f98893fdd1f9bf5da54a4"
+    },
+    "insurer": {
+      "$oid": "6601af46869ebc1aff6a5a00"
+    },
+    "product_type": {
+      "$oid": "6581964580aaa0d278519b27"
+    },
+    "plan_code": "PL2",
+    "plan_insurer_code": "YI",
+    "plan_master_id": {
+      "$oid": "660d92982f810551a7da1751"
+    },
+    "plan_name": {
+      "th": "ทราเวล อีซี่",
+      "en": "Travel Easy"
+    },
+    "plan_description": {
+      "th": "แผนปัจจุบัน ขายได้จนถึง 31 พฤษภาคม 2567 เท่านั้น",
+      "en": "Current plan. On shelf until 31 May 2024"
+    },
+    "channels": [
+      {
+        "$oid": "65ae882bb2db908bce629bdb"
+      }
+    ],
+    "status": "published",
+    "created_by": "CMSHGU01",
+    "updated_by": "CF304589",
+    "created_at": {
+      "$date": "2024-04-17T09:38:17.778Z"
+    },
+    "updated_at": {
+      "$date": "2024-05-12T08:33:23.085Z"
+    }
+  }
+]

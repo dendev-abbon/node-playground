@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "65ab91b18b133770178a982b"
+  },
+  "slug": "slug_mock1"
+},
+{
+  "_id": {
+    "$oid": "65ab92038b133770178a982c"
+  },
+  "slug": "slug_mock2"
+},
+{
+  "_id": {
+    "$oid": "65ab92158b133770178a982d"
+  },
+  "slug": "slug_mock3"
+},
+{
+  "_id": {
+    "$oid": "65b5d13d68cc39165d2c5002"
+  },
+  "slug": "home"
+},
+{
+  "_id": {
+    "$oid": "65b5d16768cc39165d2c5003"
+  },
+  "slug": "insurer_management"
+},
+{
+  "_id": {
+    "$oid": "65b5d17268cc39165d2c5004"
+  },
+  "slug": "user_management"
+},
+{
+  "_id": {
+    "$oid": "65b5d19568cc39165d2c5005"
+  },
+  "slug": "role_management"
+},
+{
+  "_id": {
+    "$oid": "65b5d1a168cc39165d2c5006"
+  },
+  "slug": "category_management"
+},
+{
+  "_id": {
+    "$oid": "65b5d1ba68cc39165d2c5008"
+  },
+  "slug": "product_and_plan_management"
+},
+{
+  "_id": {
+    "$oid": "65b5d1cd68cc39165d2c5009"
+  },
+  "slug": "premium"
+},
+{
+  "_id": {
+    "$oid": "65b5d1d968cc39165d2c500a"
+  },
+  "slug": "master_data"
+},
+{
+  "_id": {
+    "$oid": "65b5d1e868cc39165d2c500b"
+  },
+  "slug": "polipolicy_fields_settingcy"
+},
+{
+  "_id": {
+    "$oid": "65b5d1f968cc39165d2c500c"
+  },
+  "slug": "coverage_setting"
+}]

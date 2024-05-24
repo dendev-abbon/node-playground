@@ -1,0 +1,19 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "heygoody:migrate": "node ./src/heygoody/migrate.20240521.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "mongo-objectid": "^1.2.2",
+    "perf_hooks": "^0.0.1"
+  }
+}

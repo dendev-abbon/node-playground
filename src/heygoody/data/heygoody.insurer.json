@@ -1,0 +1,212 @@
+[{
+  "_id": {
+    "$oid": "6601ae8407a776996c623984"
+  },
+  "insurer_code": "SOM",
+  "full_name": {
+    "th": "บริษัท ซมโปะ ประกันภัย (ประเทศไทย) จำกัด(มหาชน)",
+    "en": "Sompo Insurance (Thailand) Public Company Limited"
+  },
+  "short_name": {
+    "th": "ซมโปะประกันภัย",
+    "en": "ซมโปะประกันภัย"
+  },
+  "description": {
+    "th": "",
+    "en": ""
+  },
+  "tax_id": "0107555000287",
+  "insurer_type": [
+    {
+      "$oid": "6581964580aaa0d278519b27"
+    }
+  ],
+  "address": {
+    "no": "อาคารอับดุลราฮิมเพลซ ชั้น 12, 14 เลขที่ 990 ถนน พระราม4",
+    "sub_district": "สีลม",
+    "district": "บางรัก",
+    "province": "กรุงเทพมหานคร",
+    "postcode": "10500"
+  },
+  "contact": {
+    "tel": "02-119-3000",
+    "fax": "02-636-2340",
+    "email": ""
+  },
+  "agent_code": "",
+  "client_id": "",
+  "client_secret": "",
+  "authen_method": "",
+  "active_at": {
+    "$date": "2024-04-30T10:48:01.491Z"
+  },
+  "is_active": true,
+  "created_by": "CMSHGU01",
+  "updated_by": "80008287",
+  "created_at": {
+    "$date": "2024-03-25T17:04:04.126Z"
+  },
+  "updated_at": {
+    "$date": "2024-04-30T10:48:01.492Z"
+  },
+  "image": "insurers/752e0168-4100-4229-a171-1aa622622717"
+},
+{
+  "_id": {
+    "$oid": "6601af46869ebc1aff6a5a00"
+  },
+  "insurer_code": "MSI",
+  "full_name": {
+    "th": "บริษัท เอ็มเอสไอจี ประกันภัย (ประเทศไทย) จำกัด (มหาชน)",
+    "en": "MSIG Insurance (Thailand) Public Company Limited"
+  },
+  "short_name": {
+    "th": "เอ็มเอสไอจีประกันภัย",
+    "en": "เอ็มเอสไอจีประกันภัย"
+  },
+  "description": {
+    "th": "",
+    "en": ""
+  },
+  "tax_id": "0107555000414",
+  "insurer_type": [
+    {
+      "$oid": "6581964580aaa0d278519b27"
+    }
+  ],
+  "address": {
+    "no": "1908 อาคาร เอ็ม เอส ไอ จี ถนนเพชรบุรีตัดใหม่",
+    "sub_district": "เพชรบุรีตัดใหม่",
+    "district": "ห้วยขวาง",
+    "province": "กรุงเทพมหานคร",
+    "postcode": "10310"
+  },
+  "contact": {
+    "tel": "0-2007-9009",
+    "fax": "0-2369-1741",
+    "email": ""
+  },
+  "agent_code": "",
+  "client_id": "",
+  "client_secret": "",
+  "authen_method": "",
+  "active_at": {
+    "$date": "2024-04-04T04:05:56.582Z"
+  },
+  "is_active": true,
+  "created_by": "CMSHGU01",
+  "updated_by": "CMSHGU01",
+  "created_at": {
+    "$date": "2024-03-25T17:07:18.152Z"
+  },
+  "updated_at": {
+    "$date": "2024-04-04T06:16:58.974Z"
+  },
+  "image": "insurers/ad07904e-485d-4a0c-a372-6563ea191f08"
+},
+{
+  "_id": {
+    "$oid": "6601b10d869ebc1aff6a5a05"
+  },
+  "insurer_code": "KPI",
+  "full_name": {
+    "th": "บริษัท กรุงไทยพานิช ประกันภัย จำกัด (มหาชน)",
+    "en": "Krungthai Panich Insurance Public Company Limited"
+  },
+  "short_name": {
+    "th": "กรุงไทยพานิชประกันภัย",
+    "en": "กรุงไทยพานิชประกันภัย"
+  },
+  "description": {
+    "th": "",
+    "en": ""
+  },
+  "tax_id": "0107555000121",
+  "insurer_type": [
+    {
+      "$oid": "6581964580aaa0d278519b27"
+    }
+  ],
+  "address": {
+    "no": "1122 อาคารเคพีไอทาวเวอร์ ถนนเพชรบุรีตัดใหม่",
+    "sub_district": "มักกะสัน",
+    "district": "ราชเทวี",
+    "province": "กรุงเทพมหานคร",
+    "postcode": "10400"
+  },
+  "contact": {
+    "tel": "0-2624-1111",
+    "fax": "0-2624-1234",
+    "email": ""
+  },
+  "agent_code": "",
+  "client_id": "",
+  "client_secret": "",
+  "authen_method": "",
+  "active_at": {
+    "$date": "2024-04-04T04:06:12.505Z"
+  },
+  "is_active": true,
+  "created_by": "CMSHGU01",
+  "updated_by": "CMSHGU01",
+  "created_at": {
+    "$date": "2024-03-25T17:14:53.724Z"
+  },
+  "updated_at": {
+    "$date": "2024-04-04T06:17:32.218Z"
+  },
+  "image": "insurers/5de7fe7e-262a-4e23-b69e-bbe60d43cb76"
+},
+{
+  "_id": {
+    "$oid": "6601b1a2869ebc1aff6a5a0c"
+  },
+  "insurer_code": "AXA",
+  "full_name": {
+    "th": "บริษัท แอกซ่าประกันภัย จำกัด (มหาชน)",
+    "en": "AXA Insurance Public Company Limited"
+  },
+  "short_name": {
+    "th": "แอกซ่าประกันภัย",
+    "en": "แอกซ่าประกันภัย"
+  },
+  "description": {
+    "th": "",
+    "en": ""
+  },
+  "tax_id": "0107537002729",
+  "insurer_type": [
+    {
+      "$oid": "6581964580aaa0d278519b27"
+    }
+  ],
+  "address": {
+    "no": "1168/67 อาคารลุมพินีทาวเวอร์ ชั้น 23 ซี ถนนพระรามสี่",
+    "sub_district": "ทุ่งมหาเมฆ",
+    "district": "สาทร",
+    "province": "กรุงเทพมหานคร",
+    "postcode": "10120"
+  },
+  "contact": {
+    "tel": "021188111",
+    "fax": "",
+    "email": ""
+  },
+  "agent_code": "",
+  "client_id": "",
+  "client_secret": "",
+  "authen_method": "",
+  "active_at": {
+    "$date": "2024-05-13T08:50:52.904Z"
+  },
+  "is_active": true,
+  "created_by": "CMSHGU01",
+  "updated_by": "CMSHGU01",
+  "created_at": {
+    "$date": "2024-03-25T17:17:22.633Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-13T08:50:52.904Z"
+  },
+  "image": "insurers/2bd9d995-8ae7-4bd4-b847-8885f61b137a"
+}]

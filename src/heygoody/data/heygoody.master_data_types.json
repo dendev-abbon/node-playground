@@ -1,0 +1,123 @@
+[{
+  "_id": {
+    "$oid": "658674419959168e7956f105"
+  },
+  "label": {
+    "th": "ประเทศ",
+    "en": "Country"
+  },
+  "code": "002",
+  "is_active": true,
+  "slug": "country",
+  "insurance_type": {
+    "$oid": "6581964580aaa0d278519b27"
+  }
+},
+{
+  "_id": {
+    "$oid": "658674899959168e7956f107"
+  },
+  "label": {
+    "th": "ความสัมพันธ์",
+    "en": "Beneficiary Relationship"
+  },
+  "code": "003",
+  "is_active": true,
+  "slug": "beneficiary-relationship"
+},
+{
+  "_id": {
+    "$oid": "658674af9959168e7956f109"
+  },
+  "label": {
+    "th": "คำนำหน้า",
+    "en": "Title name"
+  },
+  "code": "004",
+  "is_active": true,
+  "slug": "title-name"
+},
+{
+  "_id": {
+    "$oid": "65895c79199e0b5e4ac97d1d"
+  },
+  "label": {
+    "th": "แผนการเดินทาง",
+    "en": "Travelling Type"
+  },
+  "code": "005",
+  "is_active": true,
+  "slug": "traveling-type"
+},
+{
+  "_id": {
+    "$oid": "65b7d0f357a67ce735f9f45b"
+  },
+  "label": {
+    "th": "ประเภทกรมธรรม์",
+    "en": "Policy Type"
+  },
+  "code": "007",
+  "is_active": true,
+  "slug": "policy-type"
+},
+{
+  "_id": {
+    "$oid": "65b7d0f357a67ce735f9f45c"
+  },
+  "label": {
+    "th": "สัญชาติ",
+    "en": "Nationality"
+  },
+  "code": "008",
+  "is_active": true,
+  "slug": "nationality"
+},
+{
+  "_id": {
+    "$oid": "65b7d0f357a67ce735f9f45d"
+  },
+  "label": {
+    "th": "ประเภทลูกค้า",
+    "en": "Client Type"
+  },
+  "code": "009",
+  "is_active": true,
+  "slug": "client-type"
+},
+{
+  "_id": {
+    "$oid": "65cc496f5e4f8286494be5f4"
+  },
+  "label": {
+    "th": "จังหวัด",
+    "en": "Provinces"
+  },
+  "code": "011",
+  "is_active": false,
+  "slug": "provinces"
+},
+{
+  "_id": {
+    "$oid": "65cdeeda5e4f8286494be603"
+  },
+  "label": {
+    "th": "เขต/อำเภอ",
+    "en": "District"
+  },
+  "code": "012",
+  "is_active": false,
+  "slug": "districts"
+},
+{
+  "_id": {
+    "$oid": "65cdef735e4f8286494be604"
+  },
+  "label": {
+    "th": "แขวง/ตำบล",
+    "en": "Subdistrict"
+  },
+  "code": "013",
+  "is_active": false,
+  "slug": "subdistricts"
+}]

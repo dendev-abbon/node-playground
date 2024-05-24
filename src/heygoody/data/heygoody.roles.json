@@ -1,0 +1,171 @@
+[{
+  "_id": {
+    "$oid": "65ac0d4291f43a117b89570f"
+  },
+  "name": {
+    "th": "ผู้ดูแลระบบ",
+    "en": "Administrator"
+  },
+  "is_active": true,
+  "created_by": "CMSHGU01",
+  "created_at": {
+    "$date": "2024-01-20T18:13:22.311Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-09T07:22:43.034Z"
+  },
+  "dn_group": "UAT_NTL-CMSHD_DigitalBro",
+  "updated_by": "CMSHGU01"
+},
+{
+  "_id": {
+    "$oid": "660ce071e75e202bfe1c5a4c"
+  },
+  "name": {
+    "th": "ITSEC UAM",
+    "en": "ITSEC UAM"
+  },
+  "dn_group": "UAT_NTL-CMSHD_UAM",
+  "is_active": true,
+  "created_by": "80000310",
+  "updated_by": "11276276",
+  "created_at": {
+    "$date": "2024-04-03T04:52:01.195Z"
+  },
+  "updated_at": {
+    "$date": "2024-04-05T04:14:24.468Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660f7cb82bb24b6a58fbe858"
+  },
+  "name": {
+    "th": "Service Operation",
+    "en": "Service Operation"
+  },
+  "dn_group": "UAT_NTL-CMSHD_ServiceOper",
+  "is_active": true,
+  "created_by": "11276276",
+  "updated_by": "11276276",
+  "created_at": {
+    "$date": "2024-04-05T04:23:20.959Z"
+  },
+  "updated_at": {
+    "$date": "2024-04-05T04:23:32.587Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660f815f2bf277143556a12a"
+  },
+  "name": {
+    "th": "Super Admin",
+    "en": "Super Admin"
+  },
+  "dn_group": "UAT_NTL-CMSHD_SuperAdmin",
+  "is_active": true,
+  "created_by": "11276276",
+  "updated_by": "11276276",
+  "created_at": {
+    "$date": "2024-04-05T04:43:11.447Z"
+  },
+  "updated_at": {
+    "$date": "2024-04-05T04:49:26.423Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660f82462bf277143556a16c"
+  },
+  "name": {
+    "th": "Product Marketing",
+    "en": "Product Marketing"
+  },
+  "dn_group": "UAT_NTL-CMSHD_ProductMKT",
+  "is_active": true,
+  "created_by": "11276276",
+  "updated_by": "11276276",
+  "created_at": {
+    "$date": "2024-04-05T04:47:02.582Z"
+  },
+  "updated_at": {
+    "$date": "2024-04-05T04:47:02.582Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660f82572bf277143556a17a"
+  },
+  "name": {
+    "th": "Marketing",
+    "en": "Marketing"
+  },
+  "dn_group": "UAT_NTL-CMSHD_MKT",
+  "is_active": true,
+  "created_by": "11276276",
+  "updated_by": "11276276",
+  "created_at": {
+    "$date": "2024-04-05T04:47:19.469Z"
+  },
+  "updated_at": {
+    "$date": "2024-04-05T04:47:19.469Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660f828f2bf277143556a190"
+  },
+  "name": {
+    "th": "Admins",
+    "en": "Admins"
+  },
+  "dn_group": "UAT_NTL-CMSHD_Admin",
+  "is_active": true,
+  "created_by": "11276276",
+  "updated_by": "11276276",
+  "created_at": {
+    "$date": "2024-04-05T04:48:15.413Z"
+  },
+  "updated_at": {
+    "$date": "2024-04-05T04:49:06.977Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660f83e62bf277143556a1cc"
+  },
+  "name": {
+    "th": "ITSEC ACM",
+    "en": "ITSEC ACM"
+  },
+  "dn_group": "UAT_NTL-CMSHD_ITSECACM",
+  "is_active": true,
+  "created_by": "11276276",
+  "updated_by": "11276276",
+  "created_at": {
+    "$date": "2024-04-05T04:53:58.796Z"
+  },
+  "updated_at": {
+    "$date": "2024-04-05T04:53:58.796Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66208fed9ee151fd689553f8"
+  },
+  "name": {
+    "th": "All-Menu",
+    "en": "All-Menu"
+  },
+  "dn_group": "UAT_NTL-CMSHD_All",
+  "is_active": true,
+  "created_by": "80000310",
+  "updated_by": "80003368",
+  "created_at": {
+    "$date": "2024-04-18T03:13:49.071Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-08T10:11:15.853Z"
+  }
+}]

@@ -1,0 +1,59 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sorting Algorithm Performance Report</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <h1>Data size: 7477</h1>
+  <canvas id="reportChart"></canvas>
+  <script>
+    const chartData = {
+      labels: ["Bubble Sort","Selection Sort","Insertion Sort","Merge Sort","Quick Sort","Built-in Sort"],
+      datasets: [{
+        label: 'Execution Time (ms)',
+        data: [2469.7751660000004,723.678958,438.71004200000016,8.795791999999892,11.035499999999956,38.14754099999982],
+        backgroundColor: 'rgb(75, 192, 192)',
+        borderColor: 'rgb(75, 192, 192)',
+        borderWidth: 1
+      }]
+    };
+    
+    const chartOptions = {
+      scales: {
+        y: {
+          beginAtZero: true,
+          title: {
+            display: true,
+            text: 'Execution Time (ms)'
+          }
+        }
+      },
+      plugins: {
+        tooltip: {
+          callbacks: {
+            label: function(context) {
+              var label = context.dataset.label || '';
+              if (label) {
+                label += ': ';
+              }
+              label += context.parsed.y.toFixed(2);
+              return label;
+            }
+          }
+        }
+      }
+    };
+    
+    const ctx = document.getElementById('reportChart').getContext('2d');
+    const reportChart = new Chart(ctx, {
+      type: 'bar',
+      data: chartData,
+      options: chartOptions
+    });
+  </script>
+</body>
+</html>

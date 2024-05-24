@@ -1,0 +1,370 @@
+[
+  {
+    "_id": {
+      "$oid": "660d92982f810551a7da1751"
+    },
+    "plan_code": "PL2",
+    "product_type": {
+      "$oid": "6581964580aaa0d278519b27"
+    },
+    "created_at": {
+      "$date": "2024-04-03T17:32:07.896Z"
+    },
+    "insurer": {
+      "$oid": "6601af46869ebc1aff6a5a00"
+    },
+    "plan_insurer_code": "YI",
+    "plan_name": {
+      "th": "ทราเวล อีซี่",
+      "en": "Travel Easy"
+    },
+    "updated_at": {
+      "$date": "2024-04-09T03:44:34.615Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "660d929c2f810551a7da2214"
+    },
+    "plan_code": "PL3",
+    "product_type": {
+      "$oid": "6581964580aaa0d278519b27"
+    },
+    "created_at": {
+      "$date": "2024-04-03T17:32:12.114Z"
+    },
+    "insurer": {
+      "$oid": "6601ae8407a776996c623984"
+    },
+    "plan_insurer_code": "TAIDSTD1",
+    "plan_name": {
+      "th": "ทราเวล จอย",
+      "en": "Travel Joy"
+    },
+    "updated_at": {
+      "$date": "2024-04-10T04:17:48.677Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "660d929e2f810551a7da2619"
+    },
+    "plan_code": "PL4",
+    "product_type": {
+      "$oid": "6581964580aaa0d278519b27"
+    },
+    "created_at": {
+      "$date": "2024-04-03T17:32:14.846Z"
+    },
+    "insurer": {
+      "$oid": "6601b10d869ebc1aff6a5a05"
+    },
+    "plan_insurer_code": "ITAI01YD01",
+    "plan_name": {
+      "th": "ไอ อินชัวร์",
+      "en": "i-Insure"
+    },
+    "updated_at": {
+      "$date": "2024-04-09T04:19:57.232Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "661563752f810551a7e3afef"
+    },
+    "plan_code": "PL5",
+    "product_type": {
+      "$oid": "6581964580aaa0d278519b27"
+    },
+    "created_at": {
+      "$date": "2024-04-09T15:49:09.705Z"
+    },
+    "insurer": {
+      "$oid": "6601af46869ebc1aff6a5a00"
+    },
+    "plan_insurer_code": "T002AA01",
+    "plan_name": {
+      "th": "ทราเวล อีซี่ พลัส",
+      "en": "Travel Easy Plus"
+    },
+    "updated_at": {
+      "$date": "2024-04-12T08:26:46.813Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6645b969baf77c69532213b7"
+    },
+    "plan_code": "UAT305",
+    "product_type": {
+      "$oid": "6581964580aaa0d278519b27"
+    },
+    "created_at": {
+      "$date": "2024-05-16T07:44:41.320Z"
+    },
+    "insurer": {
+      "$oid": "6601af46869ebc1aff6a5a00"
+    },
+    "plan_insurer_code": "Travel Easy Plus",
+    "plan_name": {
+      "th": "ทราเวล อีซี่ พลัส",
+      "en": "Travel Easy Plus"
+    },
+    "updated_at": {
+      "$date": "2024-05-16T07:46:10.412Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6645ba70baf77c6953221a45"
+    },
+    "plan_code": "UAT3333",
+    "product_type": {
+      "$oid": "6581964580aaa0d278519b27"
+    },
+    "created_at": {
+      "$date": "2024-05-16T07:49:04.565Z"
+    },
+    "insurer": {
+      "$oid": "6601af46869ebc1aff6a5a00"
+    },
+    "plan_insurer_code": "Travel Easy Plus",
+    "plan_name": {
+      "th": "ทราเวล อีซี่ พลัส",
+      "en": "Travel Easy Plus"
+    },
+    "updated_at": {
+      "$date": "2024-05-16T07:49:04.565Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6645bbf1baf77c6953221e39"
+    },
+    "plan_code": "UAT301",
+    "product_type": {
+      "$oid": "6581964580aaa0d278519b27"
+    },
+    "created_at": {
+      "$date": "2024-05-16T07:55:29.776Z"
+    },
+    "insurer": {
+      "$oid": "6601af46869ebc1aff6a5a00"
+    },
+    "plan_insurer_code": "Travel Easy Plus",
+    "plan_name": {
+      "th": "ทราเวล อีซี่ พลัส",
+      "en": "Travel Easy Plus"
+    },
+    "updated_at": {
+      "$date": "2024-05-17T07:17:16.293Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6645cb91baf77c6953223d0a"
+    },
+    "plan_code": "UAT303",
+    "product_type": {
+      "$oid": "6581964580aaa0d278519b27"
+    },
+    "created_at": {
+      "$date": "2024-05-16T09:02:09.254Z"
+    },
+    "insurer": {
+      "$oid": "6601af46869ebc1aff6a5a00"
+    },
+    "plan_insurer_code": "Travel Easy Plus",
+    "plan_name": {
+      "th": "ทราเวล อีซี่ พลัส",
+      "en": "Travel Easy Plus"
+    },
+    "updated_at": {
+      "$date": "2024-05-16T14:54:38.152Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6645cc9dbaf77c6953223e7e"
+    },
+    "plan_code": "UAT308",
+    "product_type": {
+      "$oid": "6581964580aaa0d278519b27"
+    },
+    "created_at": {
+      "$date": "2024-05-16T09:06:37.840Z"
+    },
+    "insurer": {
+      "$oid": "6601af46869ebc1aff6a5a00"
+    },
+    "plan_insurer_code": "Travel Easy Plus",
+    "plan_name": {
+      "th": "ทราเวล อีซี่ พลัส",
+      "en": "Travel Easy Plus"
+    },
+    "updated_at": {
+      "$date": "2024-05-16T09:29:02.487Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6645d240baf77c6953224622"
+    },
+    "plan_code": "UAT3088",
+    "product_type": {
+      "$oid": "6581964580aaa0d278519b27"
+    },
+    "created_at": {
+      "$date": "2024-05-16T09:30:40.154Z"
+    },
+    "insurer": {
+      "$oid": "6601af46869ebc1aff6a5a00"
+    },
+    "plan_insurer_code": "Travel Easy Plus",
+    "plan_name": {
+      "th": "ทราเวล อีซี่ พลัส",
+      "en": "Travel Easy Plus"
+    },
+    "updated_at": {
+      "$date": "2024-05-16T09:30:40.154Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6645e265baf77c6953226be2"
+    },
+    "plan_code": "UAT335",
+    "product_type": {
+      "$oid": "6581964580aaa0d278519b27"
+    },
+    "created_at": {
+      "$date": "2024-05-16T10:39:33.980Z"
+    },
+    "insurer": {
+      "$oid": "6601af46869ebc1aff6a5a00"
+    },
+    "plan_insurer_code": "Travel Easy Plus",
+    "plan_name": {
+      "th": "ทราเวล อีซี่ พลัส",
+      "en": "Travel Easy Plus"
+    },
+    "updated_at": {
+      "$date": "2024-05-16T10:40:04.005Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66470528baf77c695323c135"
+    },
+    "plan_code": "UAT309",
+    "product_type": {
+      "$oid": "6581964580aaa0d278519b27"
+    },
+    "created_at": {
+      "$date": "2024-05-17T07:20:08.855Z"
+    },
+    "insurer": {
+      "$oid": "6601af46869ebc1aff6a5a00"
+    },
+    "plan_insurer_code": "oczy Travel Easy Plus",
+    "plan_name": {
+      "th": "oczy ทราเวล อีซี่ พลัส",
+      "en": "oczy Travel Easy Plus"
+    },
+    "updated_at": {
+      "$date": "2024-05-17T07:23:03.825Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "664b0117baf77c695326fd36"
+    },
+    "plan_code": "PL3.1",
+    "product_type": {
+      "$oid": "6581964580aaa0d278519b27"
+    },
+    "created_at": {
+      "$date": "2024-05-20T07:51:51.467Z"
+    },
+    "insurer": {
+      "$oid": "6601ae8407a776996c623984"
+    },
+    "plan_insurer_code": "PL3.1",
+    "plan_name": {
+      "th": "ทราเวล จอย",
+      "en": "Travel Joy"
+    },
+    "updated_at": {
+      "$date": "2024-05-20T07:51:51.467Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "664b1e0fbaf77c695327260b"
+    },
+    "plan_code": "PL4.1",
+    "product_type": {
+      "$oid": "6581964580aaa0d278519b27"
+    },
+    "created_at": {
+      "$date": "2024-05-20T09:55:27.628Z"
+    },
+    "insurer": {
+      "$oid": "6601b10d869ebc1aff6a5a05"
+    },
+    "plan_insurer_code": "PL4.1",
+    "plan_name": {
+      "th": "ไอ อินชัวร์",
+      "en": "i-Insure"
+    },
+    "updated_at": {
+      "$date": "2024-05-21T02:29:17.675Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "664b1f42baf77c69532727b7"
+    },
+    "plan_code": "PL5A",
+    "product_type": {
+      "$oid": "6581964580aaa0d278519b27"
+    },
+    "created_at": {
+      "$date": "2024-05-20T10:00:34.345Z"
+    },
+    "insurer": {
+      "$oid": "6601af46869ebc1aff6a5a00"
+    },
+    "plan_insurer_code": "Travel Easy Plus",
+    "plan_name": {
+      "th": "Demo ทราเวล อีซี่ พลัส",
+      "en": "Demo Travel Easy Plus"
+    },
+    "updated_at": {
+      "$date": "2024-05-20T10:00:57.217Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "664c0daabaf77c6953285c95"
+    },
+    "plan_code": "PL4.2",
+    "product_type": {
+      "$oid": "6581964580aaa0d278519b27"
+    },
+    "created_at": {
+      "$date": "2024-05-21T02:57:46.197Z"
+    },
+    "insurer": {
+      "$oid": "6601b10d869ebc1aff6a5a05"
+    },
+    "plan_insurer_code": "PL4.2",
+    "plan_name": {
+      "th": "ไอ อินชัวร์",
+      "en": "i-Insure"
+    },
+    "updated_at": {
+      "$date": "2024-05-21T02:57:46.197Z"
+    }
+  }
+]

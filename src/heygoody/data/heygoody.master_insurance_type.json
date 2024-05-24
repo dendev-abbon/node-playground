@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6581964580aaa0d278519b27"
+  },
+  "name": {
+    "th": "ประกันเดินทาง",
+    "en": "Travel"
+  },
+  "code": "TO",
+  "created_by": "heygoody",
+  "updated_by": "heygoody",
+  "created_at": {
+    "$date": "2024-02-21T16:53:07.691Z"
+  },
+  "updated_at": {
+    "$date": "2024-02-21T16:53:07.691Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6581964e80aaa0d278519b29"
+  },
+  "name": {
+    "th": "ประกันอุบัติเหตุ",
+    "en": "Personal Accident"
+  },
+  "code": "PA",
+  "created_by": "heygoody",
+  "updated_by": "heygoody",
+  "created_at": {
+    "$date": "2024-02-21T16:53:07.691Z"
+  },
+  "updated_at": {
+    "$date": "2024-02-21T16:53:07.691Z"
+  }
+}]

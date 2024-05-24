@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6620f77dfd5942cf5c4693dc"
+  },
+  "user_id": "123",
+  "channel": {
+    "$oid": "65ae882bb2db908bce629bdb"
+  },
+  "created_at": {
+    "$date": "2024-04-18T10:35:41.370Z"
+  },
+  "updated_at": {
+    "$date": "2024-04-18T10:35:41.370Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66211d58a6c9ae1246797b61"
+  },
+  "user_id": "superball",
+  "channel": {
+    "$oid": "65ae882bb2db908bce629bdb"
+  },
+  "created_at": {
+    "$date": "2024-04-18T13:17:12.727Z"
+  },
+  "updated_at": {
+    "$date": "2024-04-18T13:17:12.727Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66419626ab7e96d657493577"
+  },
+  "user_id": "heygoody",
+  "channel": {
+    "$oid": "65ae882bb2db908bce629bdb"
+  },
+  "created_at": {
+    "$date": "2024-05-13T04:25:10.842Z"
+  },
+  "updated_at": {
+    "$date": "2024-05-13T04:25:10.842Z"
+  }
+}]

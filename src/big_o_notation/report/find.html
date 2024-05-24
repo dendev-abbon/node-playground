@@ -1,0 +1,66 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Performance Comparison</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <canvas id="performanceChart" width="400" height="200"></canvas>
+    <script>
+        const sizes = [100,500,1000,5000,10000,100000];
+        const timesBinarySearch = [0.06579099999999016,0.004416000000020404,0.0029169999999965057,0.00437499999998181,0.01387500000001296,0.019249999999999545];
+        const timesNormalSearch = [0.027707999999989852,0.022792000000009693,0.045250000000010004,0.203125,1.0054169999999942,0.7663340000000005];
+        const timesBuildinSearch = [0.030666999999994005,0.03149999999999409,0.017416999999994687,0.086166999999989,2.338749999999976,1.8288750000000107];
+
+        const ctx = document.getElementById('performanceChart').getContext('2d');
+        const performanceChart = new Chart(ctx, {
+          type: 'line',
+          data: {
+            labels: sizes,
+            datasets: [
+              {
+                label: 'binarySearch',
+                data: timesBinarySearch,
+                borderColor: 'rgba(255, 99, 132, 1)',
+                borderWidth: 1,
+                fill: false,
+              },
+              {
+                label: 'normalSearch',
+                data: timesNormalSearch,
+                borderColor: 'rgba(54, 162, 235, 1)',
+                borderWidth: 1,
+                fill: false,
+              },
+              {
+                label: 'buildinSearch',
+                data: timesBuildinSearch,
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 1,
+                fill: false,
+              },
+            ],
+          },
+          options: {
+            scales: {
+              x: {
+                title: {
+                  display: true,
+                  text: 'Search id',
+                },
+              },
+              y: {
+                title: {
+                  display: true,
+                  text: 'Execution Time (ms)',
+                },
+              },
+            },
+          },
+        });
+    </script>
+</body>
+</html>
